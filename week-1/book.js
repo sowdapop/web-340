@@ -1,11 +1,3 @@
-============================================
-; Title:  books.js
-; Author: Kayla McDanel
-; Date:   28 May 2022
-; Description: Assignment 1 - Setup, Debugging, and Diagnostics
-;===========================================
-*/
-
 class Book {
     constructor(title, author) {
         this.title = title;
